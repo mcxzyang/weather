@@ -14,6 +14,8 @@ $ composer require cherrybeal/weather -vvv
 
 在使用本扩展之前，你需要去 [高德开放平台](https://lbs.amap.com/dev/id/newUser) 注册账号，然后创建应用，获取应用的 API Key。
 
+在 `weather.php`  里面填上 `key=xxx`
+
 ## 使用
 
 ```php
